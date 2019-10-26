@@ -3711,5 +3711,11 @@
         "movie": "The Lion King",
         "type": "movie",
         "year": 2019
+    },
+    {
+      "quote": "Hey. Don't ever let somebody tell you... You can't do something. Not even me. All right?",
+      "movie": "The pursuit of happyness",
+      "type": "Drama",
+      "year": 2006
     }
 ]
